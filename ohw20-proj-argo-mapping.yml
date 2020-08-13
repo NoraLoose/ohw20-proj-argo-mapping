@@ -1,0 +1,12 @@
+name: ohw20-proj-argo-mapping
+channels:
+  - conda-forge
+dependencies:
+  - xarray
+  - dask
+  - scikit-learn
+  - matplotlib
+  - cartopy
+  - seaborn
+  - george
+  - jupyterlab
